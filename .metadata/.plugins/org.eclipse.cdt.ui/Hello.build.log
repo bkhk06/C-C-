@@ -1,0 +1,9 @@
+16:45:31 **** Build of configuration Debug for project Hello ****
+make all 
+Cannot run program "make": Launching failed
+
+Error: Program "make" not found in PATH
+PATH=[C:/Program Files/Java/jre1.8.0_111/bin/server;C:/Program Files/Java/jre1.8.0_111/bin;C:/Program Files/Java/jre1.8.0_111/lib/amd64;C:\Python36\Scripts\;C:\Python36\;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\app\Liu-Da\product\11.2.0\client_1\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\windows\system32\;C:\apache-tomcat-8.0.39\lib;C:\apache-tomcat-8.0.39\bin;C:\Python27;C:\Python36;C:\Program Files (x86)\Calibre2\;C:\MinGW\bin;C:\Anaconda3;C:\Anaconda3\Scripts;C:\Anaconda3\Library\bin;C:\Program Files (x86)\Java\jdk1.8.0_101\bin;C:\windows\system32\\bin;C:\windows\system32\:C:\Python27;C:\MinGW\bin;C:\eclipse-cpp-neon-3-win32-x86_64\eclipse]
+
+16:45:31 Build Finished (took 72ms)
+
