@@ -147,3 +147,40 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SelectionSort.o" "..\\src\\SelectionSort.cpp" 
 g++ -o SelectionSort.exe "src\\SelectionSort.o" 
 Info: Nothing to build for SelectionSort
+Info: Nothing to build for SelectionSort
+12:52:10 **** Rebuild of configuration Debug for project InsertionSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSort.o" "..\\src\\InsertionSort.cpp" 
+g++ -o InsertionSort.exe "src\\InsertionSort.o" 
+Info: Nothing to build for InsertionSort
+Info: Nothing to build for InsertionSort
+Info: Nothing to build for InsertionSort
+Info: Nothing to build for CocktailSort
+Info: Nothing to build for InsertionSort
+12:56:08 **** Rebuild of configuration Debug for project InsertionSortDichotomy ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSortDichotomy.o" "..\\src\\InsertionSortDichotomy.cpp" 
+g++ -o InsertionSortDichotomy.exe "src\\InsertionSortDichotomy.o" 
+12:56:09 **** Incremental Build of configuration Debug for project SelectionSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SelectionSort.o" "..\\src\\SelectionSort.cpp" 
+g++ -o InsertionSort.exe "src\\SelectionSort.o" 
+12:56:09 **** Incremental Build of configuration Debug for project Vector_ex1 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Vector_ex1.o" "..\\src\\Vector_ex1.cpp" 
+..\src\Vector_ex1.cpp: In function 'int main()':
+..\src\Vector_ex1.cpp:25:26: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+g++ -o Vector_ex1.exe "src\\Vector_ex1.o" 
+12:56:11 **** Incremental Build of configuration Debug for project bubbleSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bubbleSort.o" "..\\src\\bubbleSort.cpp" 
+g++ -o bubbleSort.exe "src\\bubbleSort.o" 
+Info: Nothing to build for test
+12:58:12 **** Incremental Build of configuration Debug for project InsertionSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSort.o" "..\\src\\InsertionSort.cpp" 
+g++ -o SelectionSort.exe "src\\InsertionSort.o" 
+12:58:21 **** Incremental Build of configuration Debug for project InsertionSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSort.o" "..\\src\\InsertionSort.cpp" 
+g++ -o InsertionSort.exe "src\\InsertionSort.o" 

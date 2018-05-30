@@ -1,9 +1,12 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe (1),org.eclipse.launchbar.core.descriptorType.default\:test.exe,org.eclipse.launchbar.core.descriptorType.default\:Vector_ex1.exe,org.eclipse.launchbar.core.descriptorType.default\:Vector_ex1.exe (1),org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe,org.eclipse.launchbar.core.descriptorType.default\:CocktailSort.exe,org.eclipse.launchbar.core.descriptorType.default\:CocktailSort.exe (1),org.eclipse.launchbar.core.descriptorType.default\:SelectionSort.exe
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe (1),org.eclipse.launchbar.core.descriptorType.default\:test.exe,org.eclipse.launchbar.core.descriptorType.default\:Vector_ex1.exe,org.eclipse.launchbar.core.descriptorType.default\:Vector_ex1.exe (1),org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe,org.eclipse.launchbar.core.descriptorType.default\:CocktailSort.exe,org.eclipse.launchbar.core.descriptorType.default\:CocktailSort.exe (1),org.eclipse.launchbar.core.descriptorType.default\:SelectionSort.exe,org.eclipse.launchbar.core.descriptorType.default\:SelectionSort.exe (1),org.eclipse.launchbar.core.descriptorType.default\:InsertionSort.exe
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:CocktailSort.exe\ (1)/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:InsertionSort.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:SelectionSort.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:bubbleSort.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:test.exe/activeLaunchMode=run
