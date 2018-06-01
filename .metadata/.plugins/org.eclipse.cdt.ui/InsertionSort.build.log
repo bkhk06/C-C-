@@ -1,7 +1,1 @@
-12:58:21 **** Incremental Build of configuration Debug for project InsertionSort ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSort.o" "..\\src\\InsertionSort.cpp" 
-g++ -o InsertionSort.exe "src\\InsertionSort.o" 
-
-12:58:21 Build Finished (took 433ms)
-
+Info: Nothing to build for InsertionSort

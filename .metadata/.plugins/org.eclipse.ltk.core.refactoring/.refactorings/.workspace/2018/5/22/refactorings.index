@@ -13,3 +13,6 @@
 1527655942352	Delete resource 'InsertionSort/Debug/SelectionSort.exe'
 1527656156308	Delete resource 'InsertionSortDichotomy/src/InsertionSort.cpp'
 1527656181570	Delete resource 'InsertionSortDichotomy/Debug/InsertionSort.exe'
+1527747928983	Delete resource 'HashSort/src/CocktailSort.cpp'
+1527747998121	Delete resource 'HashSort/Debug/CocktailSort.exe'
+1527748023607	Rename resource 'HashSort'

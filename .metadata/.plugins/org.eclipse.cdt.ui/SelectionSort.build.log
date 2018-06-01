@@ -1,7 +1,1 @@
-12:56:09 **** Incremental Build of configuration Debug for project SelectionSort ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SelectionSort.o" "..\\src\\SelectionSort.cpp" 
-g++ -o InsertionSort.exe "src\\SelectionSort.o" 
-
-12:56:09 Build Finished (took 557ms)
-
+Info: Nothing to build for SelectionSort

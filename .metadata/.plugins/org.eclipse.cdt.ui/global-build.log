@@ -184,3 +184,15 @@ g++ -o SelectionSort.exe "src\\InsertionSort.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\InsertionSort.o" "..\\src\\InsertionSort.cpp" 
 g++ -o InsertionSort.exe "src\\InsertionSort.o" 
+Info: Nothing to build for CocktailSort
+14:26:21 **** Rebuild of configuration Debug for project HashSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HashSort.o" "..\\src\\HashSort.cpp" 
+g++ -o HashSort.exe "src\\HashSort.o" 
+Info: Nothing to build for InsertionSort
+Info: Nothing to build for InsertionSortDichotomy
+Info: Nothing to build for SelectionSort
+Info: Nothing to build for Vector_ex1
+Info: Nothing to build for bubbleSort
+Info: Nothing to build for test
+Info: Nothing to build for HashSort
