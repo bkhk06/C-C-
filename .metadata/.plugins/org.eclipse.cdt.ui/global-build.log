@@ -196,3 +196,23 @@ Info: Nothing to build for Vector_ex1
 Info: Nothing to build for bubbleSort
 Info: Nothing to build for test
 Info: Nothing to build for HashSort
+13:23:44 **** Rebuild of configuration Debug for project ShellSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HashSort.o" "..\\src\\HashSort.cpp" 
+g++ -o ShellSort.exe "src\\HashSort.o" 
+13:39:34 **** Rebuild of configuration Debug for project MergeSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MergeSort.o" "..\\src\\MergeSort.cpp" 
+g++ -o MergeSort.exe "src\\MergeSort.o" 
+Info: Nothing to build for MergeSort
+Info: Nothing to build for MergeSort
+Info: Nothing to build for MergeSort
+13:41:56 **** Incremental Build of configuration Debug for project MergeSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MergeSort.o" "..\\src\\MergeSort.cpp" 
+g++ -o MergeSort.exe "src\\MergeSort.o" 
+13:42:06 **** Rebuild of configuration Debug for project SQList ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SQList.o" "..\\src\\SQList.cpp" 
+g++ -o SQList.exe "src\\SQList.o" 
+Info: Nothing to build for SQList

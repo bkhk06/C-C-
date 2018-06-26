@@ -1,0 +1,7 @@
+13:41:56 **** Incremental Build of configuration Debug for project MergeSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\MergeSort.o" "..\\src\\MergeSort.cpp" 
+g++ -o MergeSort.exe "src\\MergeSort.o" 
+
+13:41:57 Build Finished (took 534ms)
+

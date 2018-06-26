@@ -1,0 +1,7 @@
+13:23:44 **** Rebuild of configuration Debug for project ShellSort ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\HashSort.o" "..\\src\\HashSort.cpp" 
+g++ -o ShellSort.exe "src\\HashSort.o" 
+
+13:23:48 Build Finished (took 3s.22ms)
+
